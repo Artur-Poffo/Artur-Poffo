@@ -1,4 +1,4 @@
-## Prazer, meu nome é Artur Poffo e sou estudante de desenvolvimento web!
+## Prazer, meu nome é Artur Poffo e sou estudante de Desenvolvimento Web!
 <div align="center">
   <a href="https://github.com/Artur-Poffo">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Artur-Poffo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
