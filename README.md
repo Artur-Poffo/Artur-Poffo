@@ -1,6 +1,6 @@
 # 💫 About Me:
 Olá meu nome é Artur e tenho 15 anos. Sou um grande admirador da tecnologia em suas diversas áreas e por conta disso decidi começar a estudar Desenvolvimento Web, comecei fazendo cursos gratuitos até investir em um curso pago, o nome deste curso é <a href="https://programadorbr.com" >Curso ProgramadorBR</a>, e tenho certificados oficiais para provar a realização do curso, apesar de já ter terminado o curso, não parei de aprender coisas novas, mesmo completamente sozinho de forma autodidata.
-Atualmente já tenho experiência em projetos prátios em tecnologias mais avançadas como Next.js por exemplo. Desejo me tornar um desenvolvedor Full-Stack e pretendo começar a me candidatar para vagas a partir do ano de 2023. 
+Atualmente já tenho experiência em projetos práticos em tecnologias mais avançadas como Next.js por exemplo. Desejo me tornar um desenvolvedor Full-Stack e pretendo começar a me candidatar para vagas a partir do ano de 2023. 
 
 
 ## 🌐 Socials:
