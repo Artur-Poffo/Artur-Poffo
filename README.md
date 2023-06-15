@@ -33,9 +33,9 @@
   
   ## Socials:
   
-<a href="https://www.linkedin.com/in/arturpoffo/" target="_blank"><img align="center" alt="My-LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/arturpoffo/" target="_blank"><img align="center" alt="My-LinkedIn" src="https://img.shields.io/badge/-Artur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturpoffo/" target="_blank"></a>
 <a href="https://www.instagram.com/artur_poffo/" target="_blank"><img align="center" alt="My-Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:arturpoffop@gmail.com" target="_blank"><img align="center" alt="My-Instagram" src="https://img.shields.io/badge/-arturpoffop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com" target="_blank"></a>
+<a href="mailto:arturpoffop@gmail.com" target="_blank"><img align="center" alt="My-Email" src="https://img.shields.io/badge/-arturpoffop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com" target="_blank"></a>
 
 ##
   <div align="center">
