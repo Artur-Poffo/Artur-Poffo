@@ -1,47 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=277ff2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Artur;I'm+18+years+old;I'm+from+Brazil;I'm+Full+Stack+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arturpoffo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arturpoffop@gmail.com) 
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Artur-Poffo&show_icons=true&count_private=true&hide_border=true&title_color=277ff2&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Poffo&layout=compact&hide_border=true&title_color=ff91a4&text_color=277ff2&bg_color=0d1117" />
-</div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Artur-Poffo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Artur-Poffo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Artur-Poffo&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Artur-Poffo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="HTML" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ts" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img align="center" alt="Next" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="VSC" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Windows" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" >
-  <img align="center" alt="Linkedin" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="SQLite" height="30" width="60" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  
-</div>
-  
-  ##
-  
-<div>
-  
-  ## Socials:
-  
-<a href="https://www.linkedin.com/in/arturpoffo/" target="_blank"><img align="center" alt="My-LinkedIn" src="https://img.shields.io/badge/-Artur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturpoffo/" target="_blank"></a>
-<a href="https://www.instagram.com/artur_poffo/" target="_blank"><img align="center" alt="My-Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:arturpoffop@gmail.com" target="_blank"><img align="center" alt="My-Email" src="https://img.shields.io/badge/-arturpoffop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com" target="_blank"></a>
+---
+[![](https://komarev.com/ghpvc/?username=Artur-Poffo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Artur-Poffo}/count.svg" /></p> 
-<br>
-</div>
-  
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
